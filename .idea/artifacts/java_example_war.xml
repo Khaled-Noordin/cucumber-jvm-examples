@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="java-example:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="cuke-jvm-example.war">
-      <element id="artifact" artifact-name="java-example:war exploded" />
-    </root>
-  </artifact>
-</component>
