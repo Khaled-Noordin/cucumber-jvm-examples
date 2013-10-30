@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.weblogism.cucumberjvm</groupId>
-  <artifactId>java-example</artifactId>
+  <artifactId>cucumber-jvm-examples</artifactId>
   <version>1.0.3-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Cucumber-jvm Java Example</name>
